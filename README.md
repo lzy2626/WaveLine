@@ -24,7 +24,7 @@
 
 ```
 	dependencies {
-	        implementation 'com.github.lzy2626:WaveLine:Tag'
+	        implementation 'com.github.lzy2626:WaveLine:1.0'
 	}
 ```
 ###### Step 3.xml
